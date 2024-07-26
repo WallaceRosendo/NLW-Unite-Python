@@ -19,7 +19,7 @@ Neste projeto foi desenvolvido a versão simplificada de um sistema de check-in 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=pycharm,py,sqlite,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sqlite,)](https://skillicons.dev)
 
 ##
 <br> 
